@@ -10,6 +10,12 @@ files, but otherwise has no font data. It does not directly support graphics,
 although it does have *extenion* opcodes (`xxx1`-`xxx4`) which can be anything
 supported by both your dvi-creator and your dvi-reader.
 
+You can read more about the `dvi` file format
+[on wikipedia](https://en.wikipedia.org/wiki/Device_independent_file_format) or
+in technical detail at
+[this `dvi` spec
+page](https://web.archive.org/web/20070403030353/http://www.math.umd.edu/~asnowden/comp-cont/dvi.html).
+
 ## Installing
 
 ```
