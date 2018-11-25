@@ -1,5 +1,5 @@
 # dvidump
----
+
 *human-friendly opcode viewer for dvi files*
 
 This small utility allows you to see exactly what the output of a TeX run is
